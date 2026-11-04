@@ -1,0 +1,24 @@
+# [theme]
+# base = "light"
+# primaryColor = "#6D5CE8"
+# backgroundColor = "#F4F3FF"
+# secondaryBackgroundColor = "#FFFFFF"
+# textColor = "#20213A"
+# font = "sans serif"
+
+
+[theme]
+# The primary accent color for interactive elements like sliders, checkboxes, and buttons
+primaryColor = "#7B2CBF"   # Vibrant Purple
+
+# The background color for the main content area
+backgroundColor = "#0F172A" # Deep Slate Blue (for clean contrast)
+
+# The background color for the sidebar
+secondaryBackgroundColor = "#1E293B" # Dark Slate (keeps it sleek)
+
+# The main text color
+textColor = "#F8FAFC" # Soft White for high readability
+
+# The font family (sans serif works beautifully for modern web apps)
+font = "sans serif"
